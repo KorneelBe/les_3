@@ -3,3 +3,5 @@
 ### Je kunt zoveel niveaus toevoegen als je wilt
 
 ook online kunnen we dingen aanpassen
+
+maar ook lokaal kunnen we verder
